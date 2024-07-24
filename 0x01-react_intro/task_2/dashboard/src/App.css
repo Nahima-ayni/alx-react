@@ -1,0 +1,35 @@
+.App {
+  font-family: Arial;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  color: #e0354b;
+  font-size: 1.4rem;
+  border-bottom: 3px solid #e0354b;
+}
+
+.App-logo {
+  height: 200px;
+}
+
+.App-header h1 {
+  color: rgb(206, 13, 13);
+  font-size: 36px;
+  margin-left: 1rem;
+}
+
+.App-body {
+  margin: 50px;
+  font-size: 22px;
+  padding-bottom: 8rem;
+
+}
+
+.App-footer {
+  text-align: center;
+  font-style: italic;
+  border-top: 3px solid #e0354b;
+  padding: 1rem 0;
+}
