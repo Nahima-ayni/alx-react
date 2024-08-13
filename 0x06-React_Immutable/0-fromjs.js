@@ -1,5 +1,5 @@
-import { fromJs } from 'immutable';
+import { fromJS } from 'immutable';
 
-function getImmutableObject(object) {
-	return fromJS(object);
+function getImmutableObject (object) {
+  return fromJS(object);
 }
